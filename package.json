@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor-react",
+  "name": "ckeditor-react-component",
   "version": "0.1.0",
   "description": "Ckeditor 5 component for ReactJs",
   "main": "index.js",
