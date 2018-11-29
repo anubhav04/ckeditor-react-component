@@ -25,7 +25,7 @@ import CkeditorReact from 'ckeditor-react';
 
 class ckeditor extends Component{
   onChange = (event, editor) => {
-    console.log( { event, editor }
+    console.log( { event, editor } );
   }
   render(){
     return(
