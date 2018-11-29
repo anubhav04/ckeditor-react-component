@@ -12,8 +12,8 @@ This module exposes component for CKEditor 5 for react:
 
 
 ## Installation
-    npm install --save ckeditor-react
-    yarn add ckeditor-react
+    npm install --save ckeditor-react-component
+    yarn add ckeditor-react-component
 
 ## Fully Customisable
 * It is fully customisable, you can customise the wrapper, just edit CkeditorReact.js file according to you need
