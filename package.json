@@ -29,5 +29,16 @@
     "@ckeditor/ckeditor5-react": "^1.0.0",
     "@ckeditor/ckeditor5-table": "^11.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^11.1.0"
-  }
+  },
+  "keywords":[
+    "ckeditor",
+    "react ckeditor",
+    "ckeditor reactjs",
+    "ckeditor for reactjs",
+    "ckeditor component for reactjs",
+    "text editor react",
+    "text editor reactjs",
+    "text editor for reactjs",
+    "text editor for reactj"
+  ]
 }
