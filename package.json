@@ -29,5 +29,5 @@
     "@ckeditor/ckeditor5-react": "^1.0.0",
     "@ckeditor/ckeditor5-table": "^11.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^11.1.0"
-  },
+  }
 }
