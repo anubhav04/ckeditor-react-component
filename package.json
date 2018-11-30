@@ -1,10 +1,14 @@
 {
   "name": "ckeditor-react-component",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Ckeditor 5 component for ReactJs",
   "main": "index.js",
   "author": "anubhav.techanthusiast@gmail.com",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhav04/ckeditor-react-component.git"
+  },
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
