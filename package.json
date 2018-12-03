@@ -1,6 +1,6 @@
 {
   "name": "ckeditor-react-component",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Ckeditor 5 component for ReactJs",
   "main": "index.js",
   "author": "anubhav.techanthusiast@gmail.com",

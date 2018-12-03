@@ -2,7 +2,7 @@ Ckeditor For ReactJs
 ====================
 
 This module exposes component for CKEditor 5 for react:
-* Pass `uploadUrl` to unable use of images within editor. uploadUrl is required in CKEditor 5 to unable use of images.
+* Pass `uploadUrl` to unable use of images within editor. uploadUrl is required in CKEditor 5 to enable use of images.
 
 * Soon a fully customisable version will be available.
 
