@@ -17,7 +17,7 @@ This module exposes component for CKEditor 5 for react:
 ## Usage
 ```es6
 import React, { Component } from 'react';
-import CkeditorReact from 'ckeditor-react';
+import CkeditorReact from 'ckeditor-react-component';
 
 class ckeditor extends Component{
   onChange = (event, editor) => {
