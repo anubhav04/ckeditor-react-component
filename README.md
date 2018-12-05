@@ -6,6 +6,10 @@ This module exposes component for CKEditor 5 for react:
 
 * Soon a fully customisable version will be available.
 
+* Needs WebPack To get it working.
+
+
+
 
 ## Installation
     npm install --save ckeditor-react-component
@@ -27,8 +31,6 @@ class ckeditor extends Component{
     return(
       <CkeditorReact
       onChange={this.onChange} // function to get content
-      style={{height: '100px'}} // your custom styles
-      className="test" // your custom className
       uploadUrl="/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Files&responseType=json" // your media upload url, required to use image upload in contentToolbar
       data={data} // data you want to pass as default content
       />

@@ -34,7 +34,6 @@ class CkeditorReact extends Component {
   render(){
     const { uploadUrl } = this.props;
     return(
-      <div className={this.props.className} style={this.props.style}>
           <CKEditor
             onChange={ ( event, editor ) => this.props.onChange( { event, editor } ) }
             config={ {
@@ -57,9 +56,8 @@ class CkeditorReact extends Component {
             } }
             editor={ ClassicEditor }
             data="<p>Hello from CKEditor 5!</p>"
-          />
-      </div>
-    )
+          ></CKEditor>
+    );
   }
 }
 
